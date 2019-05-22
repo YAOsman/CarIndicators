@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1485350362 source:c:\users\amr ali\desktop\carindicators\button.c
+	"Button.h"
+	"Main.h"
+	"Port.h"
+	"sEOS.h"
+
+1485349927 c:\users\amr ali\desktop\carindicators\button.h
+	"Main.h"
+
+1485341234 c:\users\amr ali\desktop\carindicators\main.h
+	<pic16f877a.h>
+
+1485346384 c:\users\amr ali\desktop\carindicators\port.h
+	"Main.h"
+
+1485341828 c:\users\amr ali\desktop\carindicators\seos.h
+	"Main.h"
+
+1485341053 source:c:\users\amr ali\desktop\carindicators\carindicators.c
+	"Main.h"
+	"Button.h"
+	"SSD.h"
+	"HIF.h"
+	"TIF.h"
+	"Controller.h"
+	"sEOS.h"
+
+1485351286 c:\users\amr ali\desktop\carindicators\ssd.h
+
+1485351565 c:\users\amr ali\desktop\carindicators\hif.h
+
+1485351565 c:\users\amr ali\desktop\carindicators\tif.h
+
+1485352549 c:\users\amr ali\desktop\carindicators\controller.h
+
+1485352113 source:c:\users\amr ali\desktop\carindicators\hif.c
+	"HIF.h"
+	"Main.h"
+	"SSD.h"
+	"sEOS.h"
+
+1485341710 source:c:\users\amr ali\desktop\carindicators\seos.c
+	"sEOS.h"
+	"Button.h"
+	"Controller.h"
+	"HIF.h"
+	"TIF.h"
+
+1485351314 source:c:\users\amr ali\desktop\carindicators\ssd.c
+	"SSD.h"
+	"Port.h"
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CarIndicators" />
+		<Option pch_mode="2" />
+		<Option compiler="sdcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CarIndicators" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="sdcc" />
+				<Compiler>
+					<Add option="--debug" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="Button.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Button.h" />
+		<Unit filename="CarIndicators.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller.h" />
+		<Unit filename="HIF.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="HIF.h" />
+		<Unit filename="Main.h" />
+		<Unit filename="Port.h" />
+		<Unit filename="SSD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SSD.h" />
+		<Unit filename="TIF.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TIF.h" />
+		<Unit filename="sEOS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sEOS.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
